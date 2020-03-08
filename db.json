@@ -1,0 +1,31 @@
+[
+  {
+    Id: 1,
+    Name: "India",
+    Cities: [
+      { Id: 1, Name: "Mumbai", CountryId: 1 },
+      { Id: 2, Name: "Hyd", CountryId: 1 },
+      { Id: 3, Name: "Che", CountryId: 1 }
+    ]
+  },
+
+  {
+    Id: 2,
+    Name: "USA",
+    Cities: [
+      { Id: 1, Name: "Boston", CountryId: 1 },
+      { Id: 2, Name: "Nj", CountryId: 1 },
+      { Id: 3, Name: "chicago", CountryId: 1 }
+    ]
+  },
+
+  {
+    Id: 3,
+    Name: "UK",
+    Cities: [
+      { Id: 1, Name: "Birmingham", CountryId: 1 },
+      { Id: 2, Name: "lnd", CountryId: 1 },
+      { Id: 3, Name: "chelsea", CountryId: 1 }
+    ]
+  }
+]
